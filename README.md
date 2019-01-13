@@ -1,5 +1,5 @@
 # Portuguese Bank Marketing
-Portuguese Bank Marketing Data Set
+Portuguese Bank Marketing Data Set. ML Predictive Model Project 
 
 
 ## (Google Colab IPython Note) Variable_Importance_Chart_and_Selection.ipynb[[Wiki]](https://github.com/akaicomet/Portuguese-Bank-Marketing/wiki/Recursive-Feature-Elimination-and-Cross-validated-selection-(RFEC)-with-sets-of-learning-classifier-and-data-transformation)
