@@ -12,3 +12,9 @@ Highly correlated variables should not be included in model. Check and see corre
 
 ### 8. Final Variable Selection
 With threshold total_cnt = 270, final selected variable are listed here.   
+
+
+## (Google Colab IPython Note) Variable_Scaling_and_Redemensioning_Chart.ipynb[[Wiki]](https://github.com/akaicomet/Portuguese-Bank-Marketing/wiki/Data-Transformation-and-Feature-Extraction)
+
+### 6. Redemensioning Data
+Apply data transformation and dimension algorithm. Review plot and find well segmented plot to help to select data transformation and redimensioning data.  
