@@ -1,4 +1,4 @@
-# Portuguese-Bank-Marketing
+# Portuguese Bank Marketing
 Portuguese Bank Marketing Data Set
 
 
